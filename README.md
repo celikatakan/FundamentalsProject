@@ -1,4 +1,4 @@
-Projenin temel özeti 3 adet programımız var:
+Projenin temel özeti 3 adet programımız var: <br>
 1 - Rastgele Sayı Bulma Oyunu
 2 - Hesap Makinesi
 3 - Ortalama Hesaplama
